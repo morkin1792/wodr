@@ -2,6 +2,10 @@
 
 wordlist generator for offline brute force attacks
 
+## usage
+1) Add custom entries in the resources files
+2) `bash wodr.sh > wordlist.txt`
+
 ## password common patterns
 
 - {Word}{Number}
